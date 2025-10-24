@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bibi\\Downloads\\MAUI apps\\AppHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8CF32E-B40E-4524-A87B-E10912312840}|AppHotel\\AppHotel.csproj|c:\\users\\bibi\\downloads\\maui apps\\apphotel\\apphotel\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DD8CF32E-B40E-4524-A87B-E10912312840}|AppHotel\\AppHotel.csproj|solutionrelative:apphotel\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8CF32E-B40E-4524-A87B-E10912312840}|AppHotel\\AppHotel.csproj|c:\\users\\bibi\\downloads\\maui apps\\apphotel\\apphotel\\views\\contratacaohospedagem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8CF32E-B40E-4524-A87B-E10912312840}|AppHotel\\AppHotel.csproj|solutionrelative:apphotel\\views\\contratacaohospedagem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8CF32E-B40E-4524-A87B-E10912312840}|AppHotel\\AppHotel.csproj|c:\\users\\bibi\\downloads\\maui apps\\apphotel\\apphotel\\views\\sobre.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD8CF32E-B40E-4524-A87B-E10912312840}|AppHotel\\AppHotel.csproj|solutionrelative:apphotel\\views\\sobre.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8CF32E-B40E-4524-A87B-E10912312840}|AppHotel\\AppHotel.csproj|c:\\users\\bibi\\downloads\\maui apps\\apphotel\\apphotel\\views\\contratacaohospedagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD8CF32E-B40E-4524-A87B-E10912312840}|AppHotel\\AppHotel.csproj|solutionrelative:apphotel\\views\\contratacaohospedagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8CF32E-B40E-4524-A87B-E10912312840}|AppHotel\\AppHotel.csproj|c:\\users\\bibi\\downloads\\maui apps\\apphotel\\apphotel\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8CF32E-B40E-4524-A87B-E10912312840}|AppHotel\\AppHotel.csproj|solutionrelative:apphotel\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\bibi\\Downloads\\MAUI apps\\AppHotel\\AppHotel\\.gitignore",
+              "RelativeDocumentMoniker": "AppHotel\\.gitignore",
+              "ToolTip": "C:\\Users\\bibi\\Downloads\\MAUI apps\\AppHotel\\AppHotel\\.gitignore",
+              "RelativeToolTip": "AppHotel\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-24T17:28:55.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContratacaoHospedagem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bibi\\Downloads\\MAUI apps\\AppHotel\\AppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
+              "RelativeDocumentMoniker": "AppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
+              "ToolTip": "C:\\Users\\bibi\\Downloads\\MAUI apps\\AppHotel\\AppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
+              "RelativeToolTip": "AppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:52:02.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sobre.xaml",
+              "DocumentMoniker": "C:\\Users\\bibi\\Downloads\\MAUI apps\\AppHotel\\AppHotel\\Views\\Sobre.xaml",
+              "RelativeDocumentMoniker": "AppHotel\\Views\\Sobre.xaml",
+              "ToolTip": "C:\\Users\\bibi\\Downloads\\MAUI apps\\AppHotel\\AppHotel\\Views\\Sobre.xaml",
+              "RelativeToolTip": "AppHotel\\Views\\Sobre.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T16:49:00.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContratacaoHospedagem.xaml",
+              "DocumentMoniker": "C:\\Users\\bibi\\Downloads\\MAUI apps\\AppHotel\\AppHotel\\Views\\ContratacaoHospedagem.xaml",
+              "RelativeDocumentMoniker": "AppHotel\\Views\\ContratacaoHospedagem.xaml",
+              "ToolTip": "C:\\Users\\bibi\\Downloads\\MAUI apps\\AppHotel\\AppHotel\\Views\\ContratacaoHospedagem.xaml",
+              "RelativeToolTip": "AppHotel\\Views\\ContratacaoHospedagem.xaml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAjwFIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T16:17:58.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bibi\\Downloads\\MAUI apps\\AppHotel\\AppHotel\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppHotel\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\bibi\\Downloads\\MAUI apps\\AppHotel\\AppHotel\\App.xaml.cs",
+              "RelativeToolTip": "AppHotel\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:14:51.239Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
